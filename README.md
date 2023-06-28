@@ -1,11 +1,11 @@
-#Get Start with create App
+# Get Start with create App
 
-##create two folder `client` and `server` 
+## create two folder `client` and `server` 
 
-##in terminal client folder
+## in terminal client folder
 `npx create-react-app`
 
-##terminal server folder
+## terminal server folder
 
 `npm init`
 
